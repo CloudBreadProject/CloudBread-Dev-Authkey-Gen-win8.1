@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CloudBread-Dev-Authkey-Gen-win8.1", "CloudBread-Dev-Authkey-Gen-win8.1", "{3B2B8268-DFD5-47A3-B03D-5C41F29E7DCF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CloudBread-Auth-win8.1", "CloudBread-Auth-win8.1", "{3B2B8268-DFD5-47A3-B03D-5C41F29E7DCF}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CloudBread-Dev-Authkey-Gen-win8.1.Shared", "CloudBread-Dev-Authkey-Gen-win8.1\CloudBread-Dev-Authkey-Gen-win8.1.Shared\CloudBread-Dev-Authkey-Gen-win8.1.Shared.shproj", "{0E1DBEA9-ACFE-4AF7-912D-8054372EB591}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CloudBread-auth-win8.1.Shared", "CloudBread-Dev-Authkey-Gen-win8.1\CloudBread-Dev-Authkey-Gen-win8.1.Shared\CloudBread-auth-win8.1.Shared.shproj", "{0E1DBEA9-ACFE-4AF7-912D-8054372EB591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudBread-Dev-Authkey-Gen-win8.1.Windows", "CloudBread-Dev-Authkey-Gen-win8.1\CloudBread-Dev-Authkey-Gen-win8.1.Windows\CloudBread-Dev-Authkey-Gen-win8.1.Windows.csproj", "{B082F217-5A8C-4247-941A-9402D4C278B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudBread-auth-win8.1.Windows", "CloudBread-Dev-Authkey-Gen-win8.1\CloudBread-Dev-Authkey-Gen-win8.1.Windows\CloudBread-auth-win8.1.Windows.csproj", "{B082F217-5A8C-4247-941A-9402D4C278B2}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

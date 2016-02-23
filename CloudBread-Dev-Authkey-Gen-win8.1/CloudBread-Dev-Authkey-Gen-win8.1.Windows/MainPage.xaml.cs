@@ -31,7 +31,7 @@ namespace CloudBread_Dev_Authkey_Gen_win8._1
         {
             
             bool success = false;
-            try
+            try 
             {
                 // Sign-in using Facebook authentication.
                 // change property for twitter, google id, microsoft id 
