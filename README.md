@@ -2,7 +2,7 @@
 This porject is authentication provider authkey development &amp; testing project for CloudBread game server engine 
 
 ##Installation guide
-For this project to your Repository and open it in Visual Studio 2015. 
+Fork this project to your repository and open it in Visual Studio 2015. 
 
 Change *app.xaml.cs* file code to your Authenticated Server
 ```
